@@ -1,4 +1,7 @@
-poetry
-======
+#SIGCSE 2013 Demo Repo
 
-A repo containing some potetry
+Contains poetry, because why not?
+
+* Shakespeare
+* Garca Marquez
+* Byron
